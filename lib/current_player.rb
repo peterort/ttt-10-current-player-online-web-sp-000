@@ -4,8 +4,10 @@ def turn_count(board)
     if board != " " || board != ""
      counter += 1
     else counter +=0
+
+      return counter
     end
-return counter
+
 
   end
 
