@@ -5,11 +5,10 @@ def turn_count(board)
      counter += 1
     else counter +=0
 
-      return counter
     end
 
 
   end
-
+      return counter
 
 end
